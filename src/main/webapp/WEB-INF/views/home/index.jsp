@@ -45,7 +45,7 @@
 </style><title>Home page</title>
 </head>
 <body> 
-		<p>Your project is configured! Now, what do you think about donate :)?</p>
+		<p>Seu projeto está configuirado e pronto para seguir</p>
 		<div id="brl-button">
 			<img src="http://www.setupmyproject.com/images/flags/ptbr.png" alt="brazilian flag"/> 
 			<p class="textPay">
