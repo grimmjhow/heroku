@@ -16,10 +16,12 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   <dependencyManagement />
+  <packaging>war</packaging>
   <dependencies>
     <dependency>
       <groupId>org.apache.tomcat.embed</groupId>
       <artifactId>tomcat-embed-jasper</artifactId>
+      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
@@ -73,7 +75,6 @@
     <plugins>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
-        <version>2.4</version>
         <configuration>
           <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
