@@ -71,7 +71,6 @@
 			
 		</div>
 		<div id="usd-button">
-			<button onclick="alert('jenkins deploy')">Click Here</button>
 			<img src="http://www.setupmyproject.com/images/flags/usen.png" alt="non brazilian flag"/>
 			<p class="textPay">
 				Our main goal is that you can start your project as fast as possible, without wasting time setting up frameworks and other details. There are a lot of things to come like project with already configured templates, more options of plugins for each framework etc. We really think that our project saves your time, so, if you can, we would like that you to contribute with us making a donation. 
